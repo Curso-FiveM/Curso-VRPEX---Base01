@@ -13,7 +13,6 @@
 
 ### Explicação sobre o curso
 - Proposta do curso
-- Explicação sobre como será demonstrado
 - Sobre os arquivos utilizados
 
 ### Criação das Keys
@@ -41,8 +40,8 @@
 
 ### Gerenciamento do Projeto
 - Criando repositório para as aulas
-- Trocando loadscreen
-- Trocando Logo da Hud
+- Configurando o .gitignore
+- Fazendo o backup da base
 
 ---
 
@@ -54,16 +53,16 @@
 ### Grupos e Permissões
 - Grupos e Permissões ( + aplicativo que cria grupos mais fácil )
 
+## Exercicios --
+
 ### Trancas e Baús
 - Trancas de portas/portões (aplicativo que pega cds mais fácil)
 - Baús com Permissões
+## Exercicios --
 
 ### NPCs e Peds
 - Adicionando Peds (NPC)
-
----
-
-## Módulo 03: Avançado
+## Exercicios --
 
 ### Criação de Facções
 - Localização
@@ -72,15 +71,28 @@
 - Craft
 - Farm/Rotas
 - Baú
+  
+## Exercicios --
+  
+### Economia da cidade
 
-### Recursos e Economias Ilícitas
-- Armas
-- Munição
-- Lavagem de Dinheiro
-- Desmanche
-- Craft de drogas / Venda ilegal
-- Mercado Negro
+---
 
+## Módulo 03: Avançado
+
+### Criando Roupas inicais do player
+-Trocando Roupas iniciais dos jogadores
+
+### Roupas
+- Criando roupas  ( Retexturizando )
+- Criando roupas  ( Criando DLC )
+  ## Exercicios --
+### Mapas
+- Criando Mapas ( Criando mapas e trocando texturas )
+## Exercicios --
+### Carros
+- Criando Mapas ( Criando mapas e trocando texturas )
+## Exercicios --
 ---
 
 ## Módulo 04: Bônus (Servidor de Discord + Bots)
