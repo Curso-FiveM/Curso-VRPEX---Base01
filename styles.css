@@ -1,22 +1,23 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #121212;
     margin: 0;
     padding: 20px;
+    color: #FFFFFF;
 }
 
 .container {
     max-width: 800px;
     margin: 0 auto;
-    background: #ffffff;
+    background: #1E1E1E;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 h1 {
     text-align: center;
-    color: #333333;
+    color: #E0E0E0;
 }
 
 .module {
@@ -24,7 +25,7 @@ h1 {
 }
 
 h2 {
-    color: #0066cc;
+    color: #BB86FC;
     margin-bottom: 10px;
 }
 
@@ -39,4 +40,15 @@ li {
 
 input[type="checkbox"] {
     margin-right: 10px;
+}
+
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+}
+
+input[type="checkbox"]:hover {
+    transform: scale(1.2);
 }
