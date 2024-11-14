@@ -24,7 +24,7 @@
 - Editor de código (VSCode, Notepad++)
 - Sites para edição de imagem (Grátis)
 - GitHub para Versionamento e backup dos projetos
-- `Links Utilizados`
+`Links Utilizados`
 - [VSCODE](https://code.visualstudio.com)
 - [HEIDSQL](https://www.heidisql.com)
 - [XAMPP](https://www.apachefriends.org/pt_br/index.html)
