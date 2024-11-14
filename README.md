@@ -1,4 +1,4 @@
-# Curso VRP - Cronograma de Aulas
+# Curso VRPEX - Cronograma de Aulas
 
 ## Índice
 - [Módulo 00: Introdução](#módulo-00-introdução)
